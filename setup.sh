@@ -1,9 +1,3 @@
-git clone https://github.com/altercation/vim-colors-solarized.git
-
-mkdir ~/.vim/
-mkdir ~/.vim/colors
-
-cp vim-colors-solarized/colors/solarized.vim ~/.vim/colors/
-
+mkdir -p ~/.vim/bundle
+git clone git://github.com/Shougo/neobundle.vim ~/.vim/bundle/neobundle.vim
 cp vimrc ~/.vimrc
-sh ./install.sh
