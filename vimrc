@@ -30,7 +30,7 @@ set t_Co=256                                     " ターミナル：ターミ�
 "set paste                                        " ターミナル：ターミナル上からの張り付けを許可
 set expandtab                                    " タブを半角スペースに置き換える
 set tabstop=4                                    " タブ幅をスペース4つ分にする
-set shiftwidth=4                                 " 自動インデントの幅
+set shiftwidth=2                                 " 自動インデントの幅
 set cmdheight=1                                  " コマンドラインの高さ
 set laststatus=2                                 " ステータスバーを表示する位置
 "set ruler                                        " ルーラの表示
