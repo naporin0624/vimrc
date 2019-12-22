@@ -6,4 +6,10 @@
 sudo sh setup.sh
 ```
 
+- can't create file ...と言われる時は
+```shell
+sudo chmod -R 777 .vim
+```
+でよさそう。
+
 おわり

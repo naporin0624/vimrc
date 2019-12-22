@@ -1138,6 +1138,7 @@ call neobundle#begin(expand('~/.vim/bundle/'))
     NeoBundleFetch 'Shougo/neobundle.vim'
     NeoBundle 'chr4/nginx.vim'
     NeoBundle 'leafgarland/typescript-vim'
+    NeoBundle 'scrooloose/nerdtree'
     NeoBundleCheck
 " My Bundles here:
 " Refer to |:NeoBundle-examples|.
